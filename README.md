@@ -36,16 +36,7 @@ Reverse auction, also called procurement or downward auction, is when buyers req
 |**Mypage**|**Rank**|
 |![](./layout/mypage.png)|![](./layout/rank.png)|
 
-## 기술 스택
-**Environment**
-
-<br><br>
-
-**Config**
-
-<br><br>
-
-**Development**
+## Development
 
 *front-end* <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
