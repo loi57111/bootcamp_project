@@ -1,10 +1,6 @@
 # Out-Of-Print bookstore
 > This service offers out-of-print books at the lowest price through reverse auctions.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                         
+                      
 
 Reverse auction, also called procurement or downward auction, is when buyers request a product or service, and sellers compete to offer the best terms. Unlike traditional auctions (n:1), in reverse auctions, it's 1:n, encouraging price competition among sellers. Buyers select the seller with the best terms, making it user-centric.
 
